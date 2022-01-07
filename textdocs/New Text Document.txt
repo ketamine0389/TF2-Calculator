@@ -1,0 +1,20 @@
+(from discord)
+https://cdn.discordapp.com/attachments/655068122801504256/927948768698064926/unknown.png
+https://cdn.discordapp.com/attachments/655068122801504256/927990719069708378/unknown.png
+
+but there would be the first mode which only keys/refined values can be entered (and the other 2 options are still calculated), 
+but then for the second mode, usd values can be entered and converted to keys, but it also converts (and can be inputted for) 
+usd after fees and keys after fees (low/high/avg/current), with the fee % also being an inputable number. It would take the usd fee % number to get the key fee % numbers
+okay basically to sum up what i want for that, fees are only applied when selling for usd, so. okay to go over my thought process 
+lets say i buy for 14 keys and sell for $30 (before fees). i calculate what the sell revenue is (28.5), and then i take that number 
+and find how many keys i get when i buy keys at a high/low/current/avg number. i then take those numbers and subtract each of them by 
+the buy # (in keys), to see the profits for high/low/current/avg. if i buy in usd and sell in keys then reverse the process. there are no fees for buying in usd 
+basically i need to see how much i would make in usd and keys (with keys in current/high/low/avg (chla)) when i can input either k/$ for buy/sell
+Also profit calculator would be "separate" from the conversion calculator, except they both use the values from the key (the stuff in the box)
+And also the fees in profit calculator dont need to be there, i forgot to remove that (cause the number put there would be after fees) 
+And after looking at all this holy shit i do a lot of math for this shit
+Quality of life ideas, color differentiation for profit numbers (like green grey red gradient)
+Oh also would it be easy to convert it to html after?
+
+2 Modes: Key prices -> USD & USD -> Key prices
+(1 key = ref/lowusd/highusd/currentusd)
